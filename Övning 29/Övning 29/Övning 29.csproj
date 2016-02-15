@@ -118,6 +118,7 @@
     <Content Include="app.manifest" />
     <Content Include="WebUserControl1.ascx" />
     <Content Include="Database\SQLContactsBackup" />
+    <Content Include="Database\Djur" />
     <None Include="scripts\jquery-1.9.1.intellisense.js" />
     <Content Include="scripts\bootstrap.js" />
     <Content Include="scripts\bootstrap.min.js" />
