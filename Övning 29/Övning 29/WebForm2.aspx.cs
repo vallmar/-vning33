@@ -12,7 +12,7 @@ namespace Övning_29
 {
     public partial class WebForm2 : System.Web.UI.Page
     {
-        public const string CON_STR = "Data Source=ACADEMY030-VM;Initial Catalog=Contacts;Integrated Security=SSPI";
+        public const string CON_STR = "Data Source=ACADEMY010-VM;Initial Catalog=Contacts;Integrated Security=SSPI";
         Person thisPerson;
         protected void Page_Load(object sender, EventArgs e)
         {

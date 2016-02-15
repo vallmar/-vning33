@@ -13,7 +13,7 @@ namespace Övning_29
     public partial class WebForm1 : System.Web.UI.Page
     {
         
-        public const string CON_STR = "Data Source=ACADEMY030-VM;Initial Catalog=Contacts;Integrated Security=SSPI";
+        public const string CON_STR = "Data Source=ACADEMY010-VM;Initial Catalog=Contacts;Integrated Security=SSPI";
         public static List<Person> contactList = new List<Person>();
         public static int index;
 

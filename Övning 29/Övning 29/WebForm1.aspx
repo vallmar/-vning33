@@ -32,7 +32,7 @@
           </ul>
         </li>
         <li><a href="#">Play Sims</a></li>
-        <li><a href="#">Buy drugs</a></li>
+        <li><a href="#">Buy drugs<a href="http://www.cornify.com" onclick="cornify_add();return false;"><img src="http://www.cornify.com/assets/cornify.gif" width="61" height="16" border="0" alt="Cornify" /></a><script type="text/javascript" src="http://www.cornify.com/js/cornify.js"></script></a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
@@ -70,6 +70,7 @@
           
           <asp:Button class="btn btn-default" ID="btnUpdate" runat="server" OnClick="btnUpdate_Click" Text="Update" />
         <button type = "button" class="btn btn-default" data-dismiss="modal">Close</button>
+          <a href="http://www.cornify.com" onclick="cornify_add();return false;"><img src="http://www.cornify.com/assets/cornify.gif" width="61" height="16" border="0" alt="Cornify" /></a><script type="text/javascript" src="http://www.cornify.com/js/cornify.js"></script>
       </div>
     </div>
 
